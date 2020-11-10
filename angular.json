@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tp2"
+    }
+  },
+  "defaultProject": "tp2",
+  "cli": {
+    "analytics": false
+  }
 }
